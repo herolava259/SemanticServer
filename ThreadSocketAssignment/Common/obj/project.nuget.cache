@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iQAxznpGY/OtFkHoBis9QF5cDHZme5bv++10qTO8LPo6wDIX2OJCB+Javn06usKYIp7J3ZjwEjLJ90CMQNo25A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\farrer.le\\source\\repos\\ThreadSocketAssignment\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\farrer.le\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
